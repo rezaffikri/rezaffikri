@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezaffikri&label=Profile%20views&color=0e75b6&style=flat" alt="rezaffikri" /> </p>
 
-- 📫 How to reach me **[rezafajrifikri@gmail.com](rezafajrifikri@gmail.com)**
+- 📫 How to reach me **[rezafajrifikri@gmail.com]**
 
 - 📄 Know about my experiences [https://rezaffikri.github.io/](https://rezaffikri.github.io/)
 

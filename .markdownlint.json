@@ -18,5 +18,7 @@
       "h3"
     ]
   },
-  "MD013": { "line_length": 9999 }
+  "MD013": { 
+    "line_length": 9999 
+  }
 }
