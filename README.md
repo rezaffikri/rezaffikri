@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [rezaffikri.github.io](rezaffikri.github.io)
 
-- 📫 How to reach me **[rezafajrifikri@gmail.com](rezafajrifikri@gmail.com)**
+- 📫 How to reach me **[rezafajrifikri@gmail.com]**
 
 - 📄 Know about my experiences [rezaffikri.github.io/#resume](rezaffikri.github.io/#resume)
 
