@@ -13,8 +13,7 @@ export const reza = {
     frontend: ['Blazor', 'ASP.NET Web App', 'Vue.js', 'Nuxt', 'Android', 'HTML', 'CSS', 'Tailwind CSS'],
     backend: ['ASP.NET Web Api', 'Express.js', 'Flask', 'FastAPI'],
     database: ['PostgreSQL', 'Microsoft SQL Server', 'Redis'],
-    architecture: ['Clean Architecture', 'Microservices', 'Domain Driven Design (DDD)',
-    ],
+    architecture: ['Clean Architecture', 'Microservices', 'Domain Driven Design (DDD)'],
   },
 
   sayHi() {
@@ -27,6 +26,6 @@ console.log(reza.sayHi());
 
 ## 🚀 Let’s Connect
 
-- 📄 Resume available at [rezaffikri.github.io](rezaffikri.github.io)
+- 📄 Resume available at [rezaffikri.github.io](https://rezaffikri.github.io)
 - 📫 Reach me via email at [rezafajrifikri@gmail.com](mailto:rezafajrifikri@gmail.com)
-- 🤝 Connect with me on [LinkedIn](https://linkedin.com/in/rezaffikri)
+- 🤝 Connect with me on [linkedin.com/in/rezaffikri](https://linkedin.com/in/rezaffikri)
