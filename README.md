@@ -20,7 +20,8 @@ export const reza = {
 
   // 👋 Say hi!
   sayHi() {
-    return "Hi 👋 I'm Reza, a Full Stack Engineer. I love building clean, maintainable, and scalable applications across multiple stacks.";
+    return "Hi, I'm Reza, a Full Stack Engineer. I love building clean, maintainable, and scalable apps across multiple stacks.
+";
   },
 };
 
