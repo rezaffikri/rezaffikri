@@ -10,8 +10,7 @@ export const reza = {
 
   stack: {
     languages: ['C#', 'JavaScript', 'TypeScript', 'Python', 'Kotlin'],
-    frontend: ['Blazor', 'ASP.NET Web App', 'Vue.js', 'Nuxt', 'Android', 'HTML', 'CSS', 'Tailwind CSS',
-    ],
+    frontend: ['Blazor', 'ASP.NET Web App', 'Vue.js', 'Nuxt', 'Android', 'HTML', 'CSS', 'Tailwind CSS'],
     backend: ['ASP.NET Web Api', 'Express.js', 'Flask', 'FastAPI'],
     database: ['PostgreSQL', 'Microsoft SQL Server', 'Redis'],
     architecture: ['Clean Architecture', 'Microservices', 'Domain Driven Design (DDD)',
